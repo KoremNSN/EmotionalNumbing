@@ -1,4 +1,4 @@
-# High-threshold-low-tolerance: a model for the emotionality paradox in PTSD
+# Transitions between emotional states in trauma-exposed individuals with and without posttraumatic stress
 
 In this project, we tried to see if people diagnosed with PTSD show a steeper transition between emotional states.
 We fitted a 5-parameter logistic regression to ratings of valenced images.
